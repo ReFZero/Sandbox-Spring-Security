@@ -9,7 +9,7 @@ Repozytorium do testowania Spring Security
 ## Dependencje:
 - Spring Web
 - Spring Security
+- Java JWT
 - Lombok
 #### Zmiany w ostatnim commicie:
-- Commit inicjalizacyjny z podstawowa konfiguracja Spring Security
-
+- Wydawanie tokenow JWT
