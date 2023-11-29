@@ -12,4 +12,4 @@ Repozytorium do testowania Spring Security
 - Java JWT
 - Lombok
 #### Zmiany w ostatnim commicie:
-- Wydawanie tokenow JWT
+- Uzywanie JWT w requestach

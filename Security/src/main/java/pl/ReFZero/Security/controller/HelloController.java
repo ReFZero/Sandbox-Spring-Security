@@ -13,4 +13,9 @@ public class HelloController {
     public String greeting() {
         return "Hello";
     }
+
+    @GetMapping("/secured")
+    public String secured() {
+        return "You are logged in";
+    }
 }
